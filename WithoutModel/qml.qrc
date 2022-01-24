@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>GameBoard.qml</file>
+        <file>MixButton.qml</file>
+        <file>Tile.qml</file>
+        <file>TilesModel.qml</file>
+        <file>WinMessage.qml</file>
+    </qresource>
+</RCC>
